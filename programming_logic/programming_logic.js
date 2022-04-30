@@ -1,7 +1,7 @@
 const array = [1,2,4,591,392,391,2,5,10,2,1,1,1,20,20]
-let temp_array = [];
-let result = [];
 let my_logic = (arr) => {
+    let temp_array = [];
+    let result = [];
     new_array = arr.sort((a, b) => a - b);
     console.log(new_array)
     for (let i = 0; i < new_array.length + 1; i++) {
