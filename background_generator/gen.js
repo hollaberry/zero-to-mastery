@@ -32,7 +32,7 @@ function set_gradient() {
 	+ ", "
 	+ color2.value
 	+ ")";
-/*setting the content of h3 with id=css to new
+/*setting the content of h3 with id=css to a new
 body.style.background*/
     css.textContent = body.style.background + ";";
 
