@@ -1,0 +1,19 @@
+{
+  "name": "background_generator",
+  "version": "1.0.0",
+  "description": "A background_genrator that is capable of generating a linear gradient color style of your choice \r for your page background.\r It is also capable of generating this style randomly if you just clikc the randomize button on your page.\r It is also able to display the format name or details of your randomly generated color",
+  "main": "gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollaberry/zero-to-mastery.git#main"
+  },
+  "bugs": {
+    "url": "https://github.com/hollaberry/zero-to-mastery/issues"
+  },
+  "homepage": "https://github.com/hollaberry/zero-to-mastery/tree/main#readme"
+}
